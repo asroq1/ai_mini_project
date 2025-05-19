@@ -1,0 +1,158 @@
+{
+  "startup_info": {
+    "name": "Example Startup",
+    "industry": "핀테크",
+    "founded_year": 2020,
+    "description": "블록체인 기반 국제 송금 서비스",
+    "core_products": [
+      {
+        "name": "Cross Pay",
+        "description": "저비용 국제 송금 앱"
+      }
+    ],
+    "unique_selling_points": [
+      "기존 송금 대비 80% 수수료 절감",
+      "실시간 송금 처리",
+      "다중 통화 지원"
+    ],
+    "target_customers": ["해외 거주 노동자", "유학생", "다국적 기업"],
+    "current_markets": ["대한민국"],
+    "business_model": "송금액 기준 0.5% 수수료",
+    "funding": {
+      "total_raised": "$2.5M",
+      "latest_round": "Seed"
+    }
+  },
+
+  "target_countries": [
+    {
+      "name": "미국",
+      "reason": "해외 송금 시장 규모가 크고 한인 교포가 많음"
+    },
+    {
+      "name": "베트남",
+      "reason": "빠르게 성장 중인 신흥 시장"
+    }
+  ],
+
+  "market_data": {
+    "미국": {
+      "market_size": "약 700억 달러",
+      "growth_rate": "연 5.2%",
+      "regulations": [
+        {
+          "name": "송금 라이선스",
+          "description": "각 주별 Money Transmitter License 필요"
+        },
+        {
+          "name": "KYC/AML 규정",
+          "description": "엄격한 고객 확인 및 자금세탁방지 규정 준수 필요"
+        }
+      ],
+      "competitors": [
+        {
+          "name": "Wise (TransferWise)",
+          "market_share": "12%",
+          "strengths": ["강력한 브랜드", "낮은 수수료"]
+        },
+        {
+          "name": "Western Union",
+          "market_share": "15%",
+          "strengths": ["넓은 오프라인 네트워크", "높은 인지도"]
+        }
+      ],
+      "consumer_trends": ["모바일 결제 선호", "실시간 송금 수요 증가"]
+    },
+    "베트남": {
+      "market_size": "약 18억 달러",
+      "growth_rate": "연 8.6%",
+      "regulations": [
+        {
+          "name": "외국인 투자 제한",
+          "description": "금융 서비스 부문 49% 외국인 지분 제한"
+        },
+        {
+          "name": "중앙은행 승인",
+          "description": "송금 서비스 제공 전 베트남 중앙은행 승인 필요"
+        }
+      ],
+      "competitors": [
+        {
+          "name": "MoMo",
+          "market_share": "25%",
+          "strengths": ["현지 최대 전자지갑", "강력한 사용자 기반"]
+        }
+      ],
+      "consumer_trends": [
+        "급속한 스마트폰 보급률",
+        "디지털 금융 서비스 채택 증가"
+      ]
+    }
+  },
+
+  "strategy_options": {
+    "미국": {
+      "entry_strategies": [
+        {
+          "type": "파트너십",
+          "description": "현지 금융기관과 제휴",
+          "pros": ["빠른 시장 진입", "규제 대응 용이"],
+          "cons": ["수익 분배", "브랜드 구축 제한"],
+          "suitable_conditions": "각 주별 라이선스 취득이 어려운 초기 단계에 적합"
+        },
+        {
+          "type": "직접 진출",
+          "description": "자체 법인 설립 및 라이선스 취득",
+          "pros": ["전체 수익 확보", "브랜드 구축 용이"],
+          "cons": ["높은 초기 비용", "긴 진입 시간"],
+          "suitable_conditions": "충분한 자금과 시간이 확보된 경우 적합"
+        }
+      ],
+      "partnerships": [
+        {
+          "type": "은행 제휴",
+          "potential_partners": ["Small Community Banks", "Digital Banks"],
+          "benefits": "규제 준수 부담 감소 및 고객 기반 확보"
+        }
+      ],
+      "risks": [
+        {
+          "type": "규제적 위험",
+          "description": "각 주별 상이한 라이선스 요건",
+          "mitigation": "단계적 주 확장 전략 및 규제 전문가 고용"
+        }
+      ]
+    },
+    "베트남": {
+      "entry_strategies": [
+        {
+          "type": "합작 투자",
+          "description": "현지 금융 기업과 합작회사 설립",
+          "pros": ["현지 지식 활용", "규제 대응 용이"],
+          "cons": ["의사결정 복잡성", "문화적 충돌 가능성"],
+          "suitable_conditions": "외국인 지분 제한이 있는 환경에서 적합"
+        }
+      ],
+      "partnerships": [
+        {
+          "type": "전자지갑 제휴",
+          "potential_partners": ["MoMo", "ZaloPay"],
+          "benefits": "기존 사용자 기반 활용 가능"
+        }
+      ],
+      "risks": [
+        {
+          "type": "정치적 위험",
+          "description": "정부 정책 변화 가능성",
+          "mitigation": "현지 정부 관계 구축 및 다각화된 비즈니스 모델"
+        }
+      ]
+    }
+  },
+
+  "final_report": {
+    "content": "",
+    "generated_date": "",
+    "version": "1.0"
+  }
+}
