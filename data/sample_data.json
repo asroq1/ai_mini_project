@@ -1,0 +1,94 @@
+{
+  "startup_info": {
+    "name": "퓨처테크 솔루션즈",
+    "industry": "AI 및 머신러닝",
+    "founded_year": 2022,
+    "description": "기업용 AI 기반 자동화 플랫폼 개발",
+    "core_products": [
+      {
+        "name": "자동화 엔진 Alpha",
+        "description": "반복 업무 자동화를 위한 AI 솔루션"
+      }
+    ],
+    "unique_selling_points": [
+      "최신 AI 알고리즘 적용",
+      "높은 정확도와 빠른 처리 속도",
+      "사용자 친화적 인터페이스"
+    ],
+    "target_customers": ["대기업", "중견기업의 IT 부서 및 운영팀"],
+    "current_markets": ["대한민국"],
+    "business_model": "SaaS 구독 (월별/연간)",
+    "funding": { "total_raised": "$1.2M", "latest_round": "Seed" }
+  },
+  "target_countries": [
+    { "name": "미국", "reason": "가장 큰 AI 시장 및 높은 기술 수용도" },
+    {
+      "name": "독일",
+      "reason": "제조업 기반 강하며, 스마트 팩토리 전환 수요 높음"
+    }
+  ],
+  "market_data": {
+    "미국": {
+      "market_size": "약 1500억 달러 (AI 시장)",
+      "growth_rate": "연 30% 이상",
+      "regulations": [
+        {
+          "name": "데이터 프라이버시 규정 (CCPA 등)",
+          "description": "엄격한 개인정보보호 규정 준수 필요"
+        },
+        {
+          "name": "AI 윤리 가이드라인",
+          "description": "연방 및 주 정부 차원의 AI 윤리 및 책임 관련 논의 활발"
+        }
+      ],
+      "competitors": [
+        {
+          "name": "글로벌 AI 선도기업 (예: Google, Microsoft, AWS)",
+          "market_share": "높음",
+          "strengths": ["자본력", "기술력", "브랜드 인지도"]
+        },
+        {
+          "name": "다수의 AI 스타트업",
+          "market_share": "다양함",
+          "strengths": ["특정 분야 전문성", "빠른 실행력"]
+        }
+      ],
+      "consumer_trends": [
+        "클라우드 기반 AI 서비스 도입 가속화",
+        "산업별 특화 AI 솔루션 수요 증가",
+        "AI 도입을 통한 생산성 향상 기대"
+      ]
+    },
+    "독일": {
+      "market_size": "약 100억 유로 (제조업 AI)",
+      "growth_rate": "연 25%",
+      "regulations": [
+        {
+          "name": "GDPR (일반 개인정보 보호법)",
+          "description": "유럽 연합의 강력한 개인정보보호 규정"
+        },
+        {
+          "name": "산업 표준 및 인증 (Industrie 4.0)",
+          "description": "스마트 팩토리 관련 표준 준수 중요"
+        }
+      ],
+      "competitors": [
+        {
+          "name": "지멘스 (Siemens)",
+          "market_share": "높음 (산업 자동화)",
+          "strengths": ["기존 시장 지배력", "광범위한 산업 네트워크"]
+        },
+        {
+          "name": "SAP",
+          "market_share": "높음 (ERP 및 SCM)",
+          "strengths": ["기업용 소프트웨어 전문성", "데이터 분석 능력"]
+        }
+      ],
+      "consumer_trends": [
+        "예측 유지보수, 품질 관리 등 AI 활용 증가",
+        "에너지 효율성 및 지속가능성에 대한 관심 고조",
+        "데이터 보안 및 신뢰성 중시"
+      ]
+    }
+  }
+}

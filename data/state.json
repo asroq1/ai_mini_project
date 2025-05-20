@@ -1,0 +1,28 @@
+{
+    "company_info": {
+        "name": "[자동생성실패] 스타트업",
+        "industry": "미정",
+        "core_products": [
+            {
+                "name": "[자동생성실패] 제품"
+            }
+        ],
+        "target_customers": [
+            "일반 고객"
+        ]
+    },
+    "market_analysis": {
+        "trends": [
+            "데이터 생성 실패"
+        ],
+        "competitors": {
+            "경쟁사정보없음": "생성실패"
+        },
+        "customer_segments": [
+            "데이터 생성 실패"
+        ]
+    },
+    "strategic_goals": {
+        "primary_goal": "시장 진출 (데이터 생성 실패)"
+    }
+}
